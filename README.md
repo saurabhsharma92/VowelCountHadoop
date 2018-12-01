@@ -24,4 +24,4 @@ We are using 4 partitioner and 4 reducer in our program to segeregate the output
 •	Part-00002
 •	Part-00003
       
-       
+ Check out the attahced output file for actual vowel count.      
